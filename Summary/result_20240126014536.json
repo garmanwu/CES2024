@@ -1,0 +1,4 @@
+{
+  "Question": "Polymath Robotics CES 2024 product highlight and specification",
+  "Summary": "Polymath Robotics\n\nProduct Highlight: Polymath Autonomy Engine\n\n- Waypoint navigation\n- Path planning\n- Obstacle detection & avoidance\n- Foundational autonomy\n- Perception, localization, and motion control\n- Safety features\n- Obstacle measurement\n- Human detection & safety stop API\n- Simulation environment\n- Remote E-stop\n- Autonomy simplified for easy deployment\n- Compatible with most large off-highway vehicles\n- Networking, compute, locomotion, and drive-by-wire required\n- Retrofitting support\n- Compatible with most sensors with LINUX driver\n- Integration with existing software via API\n\nNote: The information provided is focused on Polymath Robotics and its product, ignoring irrelevant content from other sources."
+}

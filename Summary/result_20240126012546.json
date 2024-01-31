@@ -1,0 +1,4 @@
+{
+  "Question": "Real-Time Innovations (RTI) CES 2024 product highlight and specification",
+  "Summary": "Real-Time Innovations (RTI)\n\nProduct: Connext Drive 3.0\n\n- Communication framework for software-defined vehicles (SDVs)\n- First platform-independent ISO26262 ASIL-D certified communications framework\n- Bridges the platform gap between DDS, AUTOSAR Classic, AUTOSAR Adaptive, and ROS 2\n- Enables rapid system integration without custom code\n- Manages critical communications in software-defined vehicles\n- Demonstrates multi-vendor interoperability in creating a digital display\n- Showcases automotive simulation and testing for HiL and SiL\n- Features new Unreal Engine Plugin for RTI Connext Drives\n- Offers hands-on demonstrations at CES 2024 booth #5276, West Hall"
+}

@@ -1,0 +1,4 @@
+{
+  "Question": "Intrinsic ID CES 2024 product highlight and specification",
+  "Summary": "Intrinsic ID\n\nProduct: Embedded Security Solutions\n\n- Intrinsic ID offers hardware- and software-based security IP portfolio for securing IoT, healthcare, smart home, datacenters, automotive, and chiplets\n- The technology is based on Physical Unclonable Function (PUF) to provide an additional level of hardware security using the uniqueness of each silicon chip\n- The IP can be applied to a wide range of chips, from microcontrollers to high-performance FPGAs, at any stage of a product’s lifecycle\n- It is used as a hardware root of trust to protect sensitive military and government data and systems, validate payment systems, secure connectivity, authenticate sensors, and meet functional safety standards for automotive applications"
+}

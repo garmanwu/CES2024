@@ -1,0 +1,4 @@
+{
+  "Question": "Digi International CES 2024 product highlight and specification",
+  "Summary": "Digi International\n\nProduct: Digi XBee Sensor Lab, Digi ConnectCore system-on-modules, Digi XBee LR, and MicroPython libraries for Qwiic Sensors\n\nFeatures:\n- Digi XBee Sensor Lab simulates smart sensors with real-time data processing over LTE cellular network using Digi XBee 3 Global Cellular modems.\n- Digi ConnectCore system-on-modules provide control, management, and display capabilities for simulated EV charging stations in collaboration with Versinetics.\n- Digi XBee LR offers device-to-cloud LoRaWAN product solution.\n- Collaboration with SparkFun enables MicroPython libraries for Qwiic Sensors to interact with Digi XBee Sensor Lab, creating a system of smart sensors for data collection at the edge."
+}

@@ -1,0 +1,4 @@
+{
+  "Question": "AONdevices, Inc. CES 2024 product highlight and specification",
+  "Summary": "AONDevices, Inc.\n\nAON1120™ Chip\n\n- Sensor fusion chip for super low-power Edge AI\n- Reliable voice command recognition\n- Enhanced sound and contextual awareness\n- Biometric, gesture, and motion recognition\n- Compact 40QFN packaging\n- Dual NPU, RISC-V core, and specialized HW DSP processing units\n- 16x GPIOs for diverse application integration\n- Super-Low Power: <260μW at 100% processing\n- Listening Mode: <80μW for optimizing battery life\n- High Accuracy with >90% detection rate at <0dB SNR\n- Over 40 output classifications for various AI tasks\n- Applications include health monitoring, smart home automation, and accessibility aids"
+}

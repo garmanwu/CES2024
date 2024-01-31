@@ -1,0 +1,4 @@
+{
+  "Question": "Apex Storage Design CES 2024 product highlight and specification",
+  "Summary": "Apex Storage X21 AIC\n\n- Offers 21 Gen 4 M.2 SSD slots\n- Supports 100 PCIe Lanes\n- Provides up to 168 TB of storage per card with 8 TB SSDs\n- Delivers up to 31 GB/s Read/Write speeds and over 10 Million+ IOPS\n- Passive-cooled design with 400 LFM airflow requirement\n- Utilizes PLX controllers underneath a large heatsink\n- Features a full-length PCIe 4.0 x16 slot for connection\n- Supports RAID configurations in Windows and Linux environments\n- Offers enterprise-grade reliability with advanced ECC and data protection\n- Requires a dual-slot opening, x16 PCIe slot, and 6-pin power feed for operation"
+}

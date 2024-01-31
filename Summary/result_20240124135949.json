@@ -1,0 +1,4 @@
+{
+  "Question": "Helm.ai CES 2024 product highlight and specification",
+  "Summary": "Helm.ai\n\nProduct: Generative Simulation for Perception\n\n- Helm.ai will be showcasing their generative AI approach to simulation for semantic segmentation and perception at CES 2024.\n- The technology can transform real images into highly realistic simulated versions with desired appearances across various variations such as scenario transfer, time of day transfer, weather transfer, and vehicle in-painting.\n- The segmentation masks accurately fit the original and transformed images, enabling the generation of highly realistic synthetic labeled data for large scale DNN training and validation.\n- This approach addresses the challenge of achieving high accuracy across a wide variety of image appearances, essential for building cutting edge perception DNNs for automotive production requirements.\n\nReference: https://lnkd.in/g8pvwtai"
+}

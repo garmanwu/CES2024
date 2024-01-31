@@ -1,0 +1,4 @@
+{
+  "Question": "DeGirum Corp CES 2024 product highlight and specification",
+  "Summary": "DeGirum Corp\n\nCES 2024 Product Highlight\n\n- DeGirum® Cloud Platform revolutionizes Edge AI development, simplifying ML model design, application development, hardware selection, and testing.\n- Hardware options include NVIDIA GPU, EdgeTPU, Movidius, and ORCA CPU, supporting models such as Yolo v5, v7, v8, MobileNet, EfficientNet, and ResNet50.\n- Software consists of Python SDK and C++ APIs, enabling sophisticated AI applications with minimal coding.\n- DeGirum ORCA™ is a flexible, efficient, and affordable AI accelerator IC, supporting model and device management services.\n- The DeLight Cloud Platform allows for model and device management, evaluation, and deployment, providing access to various Edge AI hardware, significantly reducing development time."
+}

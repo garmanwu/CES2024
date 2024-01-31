@@ -1,0 +1,4 @@
+{
+  "Question": "Aurora Labs CES 2024 product highlight and specification",
+  "Summary": "Aurora Labs\n\nAuto Update\n\n- Uses AI to identify changes in vehicle source code and integrate into the software developer’s toolchain\n- Enables six times smaller update files than current OTA solutions\n- Reduces hardware memory requirements by 50%\n- Provides seamless in-vehicle updates with zero downtime\n- Offers 3-Diff additive update files for OTA updates\n- Analyzes changes in source code and automatically creates additive update files\n- Reduces the size of update files for large ECUs by 97%\n- Enables up to 20 updates to be written to the existing flash memory without requiring a single erase\n- Utilizes the vehicle’s power to execute the write, without discharging the battery\n- Allows for instant roll-back to any version in case of an error, security incident, or recall\n\nFor more information, visit: https://www.auroralabs.com/product/auto-update/"
+}

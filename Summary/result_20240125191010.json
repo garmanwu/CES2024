@@ -1,0 +1,4 @@
+{
+  "Question": "VESA DisplayPort CES 2024 product highlight and specification",
+  "Summary": "VESA\n\nProduct: DisplayPort 2.1a\n\n- Enables longer ultra-high-bit-rate (UHBR) cables\n- New DP54 UHBR cable spec supports up to four-lane UHBR13.5 link rate over a two-meter passive cable, doubling the passive cable length for UHBR13.5 GPU-to-display connections\n- New Automotive Extension Services protocol for both DisplayPort 2.1a and eDP 1.5a provides support for automotive display functional safety, secure integrity, and authentication for up to 16 display regions of interest\n- Provides a standard for vehicle displays, enabling display safety engineers to achieve ISO 26262 ASIL-D\n- Sink and source devices supporting UHBR10 and UHBR13.5 link rates are supported by VESA certified DP54 UHBR cables\n- VESA continues to investigate and develop new procedures to improve auditing process for robust implementation of quality products supporting VESA's standards"
+}

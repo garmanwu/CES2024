@@ -1,0 +1,4 @@
+{
+  "Question": "NODAR, Inc. CES 2024 product highlight and specification",
+  "Summary": "NODAR, Inc.\n\nProduct: AgriView Autonomous Farming Solutions\n\n- Utilizes Nvidia's Jetson Orin platform for 3D-sensing farming solutions\n- Features advanced stereo vision solution, AgriView, powered by Nodar's 3D-sensing software\n- Integration of Nvidia's accelerated computing platform enhances detection and navigation capabilities in diverse agricultural environments\n- Nodar's sensing software, Hammerhead, auto-calibrates two cameras in real time for precise readings over bumpy terrain\n- Capable of precise and accurate spout alignment, sprayer alignment, autonomous routing, object detection, and operation of autonomous harvesters and large farming equipment"
+}

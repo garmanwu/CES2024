@@ -1,0 +1,4 @@
+{
+  "Question": "Aqara LLC CES 2024 product highlight and specification",
+  "Summary": "Aqara LLC\n\nProduct 1\n- Aqara Border Router Plug\n  - Incorporates Thread Border Router capabilities\n  - Equipped with Thread and dual-band Wi-Fi\n  - Energy-efficient with real-time and historical data on home energy consumption\n  - Can sense the on/off status of connected appliances for triggering automations\n\nProduct 2\n- Aqara Smart Lock U300\n  - Matter and Thread compatibility\n  - Extended battery life of up to 8 months\n  - Offers key-free lifestyle with multiple access options\n  - Supports remote control and real-time notifications\n\nProduct 3\n- Aqara Hub M3\n  - Multi-protocol Matter controller with Thread Border Router capabilities\n  - Retains Zigbee hub functionality and adds Thread and Bluetooth protocols\n  - Offers 2.4GHz/5GHz dual-band Wi-Fi and Power over Ethernet (PoE) connection\n  - Supports edge capabilities for local control and automations"
+}

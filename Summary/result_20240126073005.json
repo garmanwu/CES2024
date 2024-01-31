@@ -1,0 +1,4 @@
+{
+  "Question": "Owl Technologies Inc. CES 2024 product highlight and specification",
+  "Summary": "Owl Technologies Inc.\n\nProduct: Owl AI New 3D Thermal ADAS for Night Pedestrian Automatic Braking\n\n- 3D Thermal Imaging for Night Vision for Pedestrian Automatic Emergency Braking (PAEB)\n- LWIR thermal imaging combined with computer vision for classification and ranging\n- HD thermal camera technology with AI software for identifying warm objects in total darkness, up to 200 yards ahead\n- Owl Autonomous Imaging delivers monocular 3D thermal ranging computer vision solutions for automotive and industrial mobility markets\n- Partners with Nvidia at CES 2024 to showcase OWL AI neural networks running on a Jetson ORIN processor\n- Software suite performs object classification, segmentation, fusion, and offers the ability to determine distance using unique CNNs\n- Demonstrations of the solution running live at CES 2024 booth (West Hall – 6867)"
+}

@@ -1,0 +1,4 @@
+{
+  "Question": "MicroEJ CES 2024 product highlight and specification",
+  "Summary": "MicroEJ\n\nProduct: VEE Wear Wearable OS\n\n- VEE Wear, based on MICROEJ VEE, is an ultra-low footprint operating system for wearables, running on cost and power-efficient microcontrollers and microprocessors.\n- It utilizes a \"Powered by VEE Wear\" hybrid architecture to extend Android watch batteries to days or weeks and supports up to 500,000 watch faces and access to over 30,000 watch face designers in collaboration with Facer app.\n- Compatible with Android Studio and the Gradle Build System, it supports RTOS, Linux, Android Open-Source Project (AOSP), and custom kernels.\n- VEE Wear aims to revolutionize the wearable industry by unifying the experience on low-power watches, allowing for faster software development, and creating an inclusive app ecosystem across all smartwatches, including low-power and cost-effective models."
+}

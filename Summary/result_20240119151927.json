@@ -1,0 +1,4 @@
+{
+  "Question": "Thales DIS France SAS CES 2024 product highlight and specification",
+  "Summary": "Thales DIS France SAS\n\nProduct: FMC2 NAVM Flight Management Computer Navigation Modules\n\n- The FMC2 NAVM modules have been reported to provide erroneous data to the flight management computer, compromising safe flight of the airplane.\n- This AD requires revising the existing aircraft flight manual and updating the navigation database to address the unsafe condition.\n- It also prohibits installing a database unless certain procedures were removed."
+}

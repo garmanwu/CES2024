@@ -1,0 +1,4 @@
+{
+  "Question": "Espressif Incorporated CES 2024 product highlight and specification",
+  "Summary": "Espressif Incorporated\n\nProduct: ESP32-C61\n\n- Improved wireless connectivity and expanded memory options\n- Supports WiFi 6 on two modes (802.11ax and 802.11b/g/n) and includes Bluetooth 5 (LE) radio with support for long-range operation through advertisement extension and coded PHY\n- Features support for BLE Mesh 1.1 protocol and Quad SPI PSRAM at a frequency of up to 120MHz\n- Includes support for Matter, the open-source, connectivity protocol for smart home and IoT applications\n- Supports WiFi 6, Bluetooth 5, TWT (Target Wake Time), OFDMA, and MU-MIMO for high-quality, low-latency connection between devices\n- Utilizes Espressif's well-established IoT Development Framework (IDF) for support\n- Pseudo-static RAM (PSRAM) inclusion improves the number of supported applications and ease of development"
+}

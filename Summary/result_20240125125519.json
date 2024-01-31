@@ -1,0 +1,4 @@
+{
+  "Question": "Cognata CES 2024 product highlight and specification",
+  "Summary": "Cognata\n\nProduct: Advanced Automated Parking Assist HIL Solution\n\n- SimCloud AI simulation platform with omnidirectional fisheye camera capabilities\n- Real-Time Multi-Sensor simulation solution for testing ADAS and AV\n- Xylon logiRECORDER HIL Video Logger for real-time conversions of synthetic data from multiple vehicle sensors\n- AMD Zynq UltraScale+ devices for robust and flexible design environment\n- Microsoft Azure collaboration for integration into Software-Defined Vehicle (SDV) development toolchain\n- Integration of Synopsys’ virtual prototyping solutions for virtual Electronic Control Units (vECU) with SimCloud on Azure for complete virtualization of traditional Hardware-in-the-Loop (HiL) tasks\n\nFor further information, visit Cognata's official website."
+}
