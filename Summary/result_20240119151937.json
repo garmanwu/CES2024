@@ -1,4 +1,5 @@
 {
-  "Question": "Texas Instruments CES 2024 product highlight and specification",
-  "Summary": "Texas Instruments\n\nProduct 1\n\n- AWR2544 77GHz millimeter-wave radar sensor chip designed for advanced driver assistance systems (ADAS) with satellite radar architecture for improved sensor fusion and decision-making capabilities\n- Uses waveguide interface package (LOP) technology to reduce sensor size by up to 30% and enable extended sensor range to over 200m\n- New driver chips DRV3946-Q1 and DRV3901-Q1 for battery management systems and powertrains, compliant with ISO 26262 functional safety standard, with built-in diagnostics and safety features"
+    "Question": "Texas Instruments CES 2024 product highlight and specification",
+    "Summary": "Texas Instruments\n\nProduct 1\n\n- AWR2544 77GHz millimeter-wave radar sensor chip designed for advanced driver assistance systems (ADAS) with satellite radar architecture for improved sensor fusion and decision-making capabilities\n- Uses waveguide interface package (LOP) technology to reduce sensor size by up to 30% and enable extended sensor range to over 200m\n- New driver chips DRV3946-Q1 and DRV3901-Q1 for battery management systems and powertrains, compliant with ISO 26262 functional safety standard, with built-in diagnostics and safety features",
+    "Summary_cn": "德州仪器\n\n产品1\n\n- AWR2544 77GHz毫米波雷达传感器芯片，专为先进驾驶辅助系统（ADAS）设计，采用卫星雷达架构以提升传感器融合和决策能力\n- 使用波导接口封装（LOP）技术，可将传感器尺寸减小30％并扩展传感器范围至200米以上\n- 新的驱动芯片DRV3946-Q1和DRV3901-Q1，适用于电池管理系统和动力系统，符合ISO 26262功能安全标准，并带有内置诊断和安全功能"
 }

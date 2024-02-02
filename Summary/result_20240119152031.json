@@ -1,4 +1,5 @@
 {
-  "Question": "Teledyne LeCroy CES 2024 product highlight and specification",
-  "Summary": "Teledyne LeCroy\n\nWaveAce 2024 Digital Oscilloscope\n\n- 4 analog + ext channel(s)\n- 200 MHz analog bandwidth\n- 2 GSa/s sampling rate\n- 24 kpts memory depth\n- Long capture for more waveform detail\n- Math and measure functions, including FFT and 32 automatic measurement parameters\n- USB and LAN connectivity\n- Pass/Fail Testing for identifying failing devices\n- Large internal storage for saving waveforms and setups\n- Waveform sequence recorder for recording and playing back up to 2500 waveforms"
+    "Question": "Teledyne LeCroy CES 2024 product highlight and specification",
+    "Summary": "Teledyne LeCroy\n\nWaveAce 2024 Digital Oscilloscope\n\n- 4 analog + ext channel(s)\n- 200 MHz analog bandwidth\n- 2 GSa/s sampling rate\n- 24 kpts memory depth\n- Long capture for more waveform detail\n- Math and measure functions, including FFT and 32 automatic measurement parameters\n- USB and LAN connectivity\n- Pass/Fail Testing for identifying failing devices\n- Large internal storage for saving waveforms and setups\n- Waveform sequence recorder for recording and playing back up to 2500 waveforms",
+    "Summary_cn": "Teledyne LeCroy\n\nWaveAce 2024 数字示波器\n\n- 4个模拟通道+外部通道\n- 200 MHz 模拟带宽\n- 2 GSa/s 采样率\n- 24 kpts 存储深度\n- 长时间捕获以获取更多波形细节\n- 数学和测量功能，包括FFT和32个自动测量参数\n- USB和LAN连接功能\n- 用于识别故障设备的合格/不合格测试\n- 大容量内部存储器，用于保存波形和设置\n- 波形序列记录器，可记录和回放最多2500个波形"
 }

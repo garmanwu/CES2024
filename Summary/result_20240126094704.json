@@ -1,4 +1,5 @@
 {
-  "Question": "Methodica Technologies CES 2024 product highlight and specification",
-  "Summary": "Methodica Technologies\n\nProduct: Automotive technology showcased at CES 2024\n\n- Autosar-based BSW Integration\n- Developing application software with the Mathworks toolchain\n- Rapid-Control-Prototyping for concept development\n- Full design, wiring, and deployment of Hardware-in-the-Loop automated test benches with advanced failure simulation\n- Vehicle and Dyno testing services"
+    "Question": "Methodica Technologies CES 2024 product highlight and specification",
+    "Summary": "Methodica Technologies\n\nProduct: Automotive technology showcased at CES 2024\n\n- Autosar-based BSW Integration\n- Developing application software with the Mathworks toolchain\n- Rapid-Control-Prototyping for concept development\n- Full design, wiring, and deployment of Hardware-in-the-Loop automated test benches with advanced failure simulation\n- Vehicle and Dyno testing services",
+    "Summary_cn": "Methodica Technologies\n\n产品：2024 CES 展示的汽车技术\n\n- 基于Autosar的BSW集成\n- 使用Mathworks工具链开发应用软件\n- 快速控制原型设计，用于概念开发\n- 全面设计、布线和部署硬件在循环自动化测试台上，并具备先进的故障模拟功能\n- 提供车辆和动力测试服务"
 }

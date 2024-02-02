@@ -1,4 +1,5 @@
 {
-  "Question": "GHOSTPASS INC. CES 2024 product highlight and specification",
-  "Summary": "Ghostpass Inc.\n\nProduct: Self-distributed biometric authentication solution\n\n- Monitors and controls biometric information individually on users' smart devices\n- Eliminates privacy concerns by not storing data in bulk in the cloud\n- Sends biometric data to user's smartphone for authentication\n- Provides approximately 70-90% cost savings and strong security compared to traditional server methods"
+    "Question": "GHOSTPASS INC. CES 2024 product highlight and specification",
+    "Summary": "Ghostpass Inc.\n\nProduct: Self-distributed biometric authentication solution\n\n- Monitors and controls biometric information individually on users' smart devices\n- Eliminates privacy concerns by not storing data in bulk in the cloud\n- Sends biometric data to user's smartphone for authentication\n- Provides approximately 70-90% cost savings and strong security compared to traditional server methods",
+    "Summary_cn": "幽灵通讯公司\n\n产品：自助分布的生物特征验证解决方案\n\n- 单独监控和控制用户智能设备上的生物特征信息\n- 通过不在云端批量存储数据来消除隐私问题\n- 将生物特征数据发送到用户的智能手机进行验证\n- 相对传统服务器方法，提供约70-90%的成本节约和强大的安全性"
 }

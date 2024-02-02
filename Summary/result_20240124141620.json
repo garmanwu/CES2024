@@ -1,4 +1,5 @@
 {
-  "Question": "HaptX CES 2024 product highlight and specification",
-  "Summary": "HaptX\n\nHaptX Gloves G1\n\n- Hundreds of microfluidic actuators for superior tactile feedback\n- Integrated tendon system with up to 40 lb resistive force per hand\n- Proprietary magnetic motion capture system with sub-millimeter precision\n- Airpack for untethered use with 3-hour battery life\n- Conventional glove-like fit with 4 different sizes available\n- HaptX SDK for easy integration with Unity, Unreal Engine, C++ API, and ROS node\n- Priority order date for earlier shipment\n\n"
+    "Question": "HaptX CES 2024 product highlight and specification",
+    "Summary": "HaptX\n\nHaptX Gloves G1\n\n- Hundreds of microfluidic actuators for superior tactile feedback\n- Integrated tendon system with up to 40 lb resistive force per hand\n- Proprietary magnetic motion capture system with sub-millimeter precision\n- Airpack for untethered use with 3-hour battery life\n- Conventional glove-like fit with 4 different sizes available\n- HaptX SDK for easy integration with Unity, Unreal Engine, C++ API, and ROS node\n- Priority order date for earlier shipment\n\n",
+    "Summary_cn": "HaptX\n\nHaptX手套G1\n\n- 数百个微流体执行器，提供优越的触觉反馈\n- 集成肌腱系统，每只手提供高达40磅的阻力力量\n- 专有的磁感应运动捕捉系统，亚毫米级精确度\n- 配备空气背包，可实现无绳使用，电池续航时间为3小时\n- 常规手套式设计，提供4种不同尺寸可选\n- HaptX SDK，可轻松与Unity、Unreal Engine、C++ API和ROS节点集成\n- 优先下单日期，以便提前发货"
 }

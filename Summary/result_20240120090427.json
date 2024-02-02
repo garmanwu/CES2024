@@ -1,4 +1,5 @@
 {
-  "Question": "SK CES 2024 product highlight and specification",
-  "Summary": "SK hynix\n\nProduct: HBM3E Memory Solutions\n\n- HBM3E offers industry-leading data processing speed of 1.18TB/s\n- Provides 1.4 times more data capacity compared to its predecessor\n- 10% improvement in heat dissipation with Advanced MR-MUF technology\n- Also presented Compute Express Link (CXL) interface, Computational Memory Solution (CMS) product, and Accelerator-in-Memory based Accelerator (AiMX) for AI applications"
+    "Question": "SK CES 2024 product highlight and specification",
+    "Summary": "SK hynix\n\nProduct: HBM3E Memory Solutions\n\n- HBM3E offers industry-leading data processing speed of 1.18TB/s\n- Provides 1.4 times more data capacity compared to its predecessor\n- 10% improvement in heat dissipation with Advanced MR-MUF technology\n- Also presented Compute Express Link (CXL) interface, Computational Memory Solution (CMS) product, and Accelerator-in-Memory based Accelerator (AiMX) for AI applications",
+    "Summary_cn": "SK Hynix\n\n产品：HBM3E内存解决方案\n\n- HBM3E提供行业领先的1.18TB/s数据处理速度\n- 相较于前代产品，提供1.4倍的数据容量\n- 采用先进的MR-MUF技术，进行散热，热量散发提升10%\n- 同时提供了Compute Express Link（CXL）接口，计算存储解决方案（CMS）产品，以及基于内存的加速器（AiMX）用于人工智能应用"
 }

@@ -1,4 +1,5 @@
 {
-  "Question": "aiMotive CES 2024 product highlight and specification",
-  "Summary": "aiMotive\n\nCES 2024\n\naiSim 3.0\n\n- Enhanced AI-based simulation environment\n- Improved sensor simulation for testing autonomous driving systems\n- Advanced scenario and traffic modeling capabilities\n- Support for large-scale, complex urban environments\n- Realistic simulation of various weather conditions\n- Integration with aiDrive software for comprehensive testing and validation of autonomous vehicles"
+    "Question": "aiMotive CES 2024 product highlight and specification",
+    "Summary": "aiMotive\n\nCES 2024\n\naiSim 3.0\n\n- Enhanced AI-based simulation environment\n- Improved sensor simulation for testing autonomous driving systems\n- Advanced scenario and traffic modeling capabilities\n- Support for large-scale, complex urban environments\n- Realistic simulation of various weather conditions\n- Integration with aiDrive software for comprehensive testing and validation of autonomous vehicles",
+    "Summary_cn": "aiMotive\n\nCES 2024\n\naiSim 3.0\n\n- 增强的基于人工智能的模拟环境\n- 改进的传感器模拟以测试自动驾驶系统\n- 先进的场景和交通建模能力\n- 支持大规模、复杂的城市环境\n- 实时模拟各种天气条件\n- 与aiDrive软件集成，用于全面测试和验证自动驾驶车辆"
 }

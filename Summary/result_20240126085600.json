@@ -1,4 +1,5 @@
 {
     "Question": "NCHC High Performance Computing Division CES 2024 product highlight and specification",
-    "Summary": "Intel Corporation\n\nIntel Core 14th Gen HX-series mobile processors\n\n - Equipped with Intel Core i9-14900HX\n - Eight Performance-cores and 16 Efficient-cores\n - Superior single- and multi-thread performance\n - Ideal for high-end notebooks and AI PCs\n - Enhanced connectivity features\n - Demonstrated 17% higher average FPS compared to AMD 7945HX3D\n - 51% faster multitasking workflow in tests with Epic Games Unreal Engine\n\nIntroduced at CES 2024."
+    "Summary": "Intel Corporation\n\nIntel Core 14th Gen HX-series mobile processors\n\n - Equipped with Intel Core i9-14900HX\n - Eight Performance-cores and 16 Efficient-cores\n - Superior single- and multi-thread performance\n - Ideal for high-end notebooks and AI PCs\n - Enhanced connectivity features\n - Demonstrated 17% higher average FPS compared to AMD 7945HX3D\n - 51% faster multitasking workflow in tests with Epic Games Unreal Engine\n\nIntroduced at CES 2024.",
+    "Summary_cn": "英特尔公司\n\n英特尔酷睿第14代HX系列移动处理器\n\n- 配备英特尔酷睿i9-14900HX\n- 八个性能核心和16个高效核心\n- 卓越的单线程和多线程性能\n- 非常适合高端笔记本电脑和人工智能电脑\n- 增强的连接功能\n- 在与AMD 7945HX3D的测试中，平均帧率比AMD高17%\n- 在与Epic Games虚幻引擎的测试中，多任务工作流速度提升了51%\n\n在2024年的CES上推出。"
 }

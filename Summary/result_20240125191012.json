@@ -1,4 +1,5 @@
 {
     "Question": "VESSL AI CES 2024 product highlight and specification",
-    "Summary": "VESSL AI\n\nProduct: VESSL Pipelines\n\n - Streamlined interface for all ML workloads\n - Customizable hardware, datasets, hyperparameters\n - Orchestration of ML tasks into CI/CD pipelines"
+    "Summary": "VESSL AI\n\nProduct: VESSL Pipelines\n\n - Streamlined interface for all ML workloads\n - Customizable hardware, datasets, hyperparameters\n - Orchestration of ML tasks into CI/CD pipelines",
+    "Summary_cn": "VESSL AI\n\n产品：VESSL 管道\n\n- 针对所有机器学习工作负载的简化界面\n- 可定制的硬件、数据集、超参数\n- 将机器学习任务编排为 CI/CD 管道"
 }

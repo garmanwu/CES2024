@@ -1,4 +1,5 @@
 {
     "Question": "Bubl Cloud CES 2024 product highlight and specification",
-    "Summary": "Bubl\n\nBubl Cloud\n\n - End-to-end encrypted data storage for each user\n\n - Compatibility with simple REST APIs\n\n - Supports standard front-ends\n\n - Allows creation of interactive front-ends\n\n - Enables advanced data pipelines\n\n - Facilitates federated machine learning"
+    "Summary": "Bubl\n\nBubl Cloud\n\n - End-to-end encrypted data storage for each user\n\n - Compatibility with simple REST APIs\n\n - Supports standard front-ends\n\n - Allows creation of interactive front-ends\n\n - Enables advanced data pipelines\n\n - Facilitates federated machine learning",
+    "Summary_cn": "Bubl\n\nBubl云\n\n - 为每个用户提供端到端加密的数据存储\n\n - 兼容简单的REST API\n\n - 支持标准前端\n\n - 允许创建交互式前端\n\n - 支持高级数据管道\n\n - 促进联邦机器学习"
 }

@@ -1,4 +1,5 @@
 {
-  "Question": "Xelera Technologies CES 2024 product highlight and specification",
-  "Summary": "Xelera Technologies\n\nProduct: Xelera Suite\n\n- DPU software for 2x100 Gbps network throughput\n- SmartNIC software for line-rate Layer-3 security in 100GbE networks\n- XGBoost / LightGBM Acceleration Software\n- High-throughput and low-latency inference for XGBoost and LightGBM machine learning models"
+    "Question": "Xelera Technologies CES 2024 product highlight and specification",
+    "Summary": "Xelera Technologies\n\nProduct: Xelera Suite\n\n- DPU software for 2x100 Gbps network throughput\n- SmartNIC software for line-rate Layer-3 security in 100GbE networks\n- XGBoost / LightGBM Acceleration Software\n- High-throughput and low-latency inference for XGBoost and LightGBM machine learning models",
+    "Summary_cn": "Xelera Technologies\n\n产品：Xelera Suite\n\n- 用于2x100 Gbps网络吞吐量的DPU软件\n- 用于100GbE网络中实现线速层3安全的SmartNIC软件\n- XGBoost / LightGBM加速软件\n- 用于XGBoost和LightGBM机器学习模型的高吞吐量和低延迟推断。"
 }

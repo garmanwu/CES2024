@@ -1,4 +1,5 @@
 {
     "Question": "Frontier.cool Inc. CES 2024 product highlight and specification",
-    "Summary": "Frontier.cool\n\nProduct 1: Arm-based Fabric Meta MPSoC\n\n - World's first FPGA-based MPSoC for the textile industry\n - Utilizes Field-Programmable Gate Array (FPGA) hardware\n - Aims to accelerate fabric digitization with AI technology\n - Cloud solution for rapid fabric digitization at scale"
+    "Summary": "Frontier.cool\n\nProduct 1: Arm-based Fabric Meta MPSoC\n\n - World's first FPGA-based MPSoC for the textile industry\n - Utilizes Field-Programmable Gate Array (FPGA) hardware\n - Aims to accelerate fabric digitization with AI technology\n - Cloud solution for rapid fabric digitization at scale",
+    "Summary_cn": "前沿寒流\n\n产品1：基于ARM的织物元Meta MPSoC\n\n- 面向纺织行业的世界首款基于FPGA的MPSoC\n- 利用现场可编程门阵列（FPGA）硬件\n- 旨在通过人工智能技术加速织物数字化\n- 云解决方案，可实现规模化快速织物数字化"
 }

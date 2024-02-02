@@ -1,4 +1,5 @@
 {
     "Question": "Luxonis CES 2024 product highlight and specification",
-    "Summary": "Luxonis\n\nStereo Depth\n\n - High-resolution cameras\n - Depth vision\n - 200 fps\n - 1 million points\n - Range up to 25 meters\n\nComputer Vision\n\n - Real-time on-chip processing\n - Feature tracking\n - Edge detection\n\nArtificial Intelligence\n\n - On-chip machine learning capabilities"
+    "Summary": "Luxonis\n\nStereo Depth\n\n - High-resolution cameras\n - Depth vision\n - 200 fps\n - 1 million points\n - Range up to 25 meters\n\nComputer Vision\n\n - Real-time on-chip processing\n - Feature tracking\n - Edge detection\n\nArtificial Intelligence\n\n - On-chip machine learning capabilities",
+    "Summary_cn": "Luxonis\n\n立体视觉\n\n- 高分辨率摄像头\n- 深度视觉\n- 200帧每秒\n- 100万个点\n- 范围达到25米\n\n计算机视觉\n\n- 实时芯片处理\n- 特征跟踪\n- 边缘检测\n\n人工智能\n\n- 芯片上的机器学习能力"
 }

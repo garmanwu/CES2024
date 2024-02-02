@@ -1,4 +1,5 @@
 {
-  "Question": "SKIA Inc. CES 2024 product highlight and specification",
-  "Summary": "SKIA Inc.\n\nProduct: SKIA_OPD\n\n- Converts regular CT images into personalized 3D human anatomy models\n- Projects 3D models onto patients using markerless augmented reality\n- Improves doctor-patient communication and decision-making\n- Increases outpatient-inpatient conversion and hospital revenue"
+    "Question": "SKIA Inc. CES 2024 product highlight and specification",
+    "Summary": "SKIA Inc.\n\nProduct: SKIA_OPD\n\n- Converts regular CT images into personalized 3D human anatomy models\n- Projects 3D models onto patients using markerless augmented reality\n- Improves doctor-patient communication and decision-making\n- Increases outpatient-inpatient conversion and hospital revenue",
+    "Summary_cn": "SKIA公司。\n\n产品：SKIA_OPD\n\n- 将常规CT图像转换为个性化的3D人体解剖模型\n- 使用无标记增强现实将3D模型投影到患者身上\n- 改善医生与患者之间的沟通与决策\n- 提高门诊和住院之间的转换率，增加医院收入"
 }

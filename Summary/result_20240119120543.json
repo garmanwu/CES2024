@@ -1,4 +1,5 @@
 {
-  "Question": "VPI Technology CES 2024 product highlight and specification",
-  "Summary": "VPI Technology\n\nProduct: EMP Detector and Triangulator\n\n- Groundbreaking low-power EMP Detector and Triangulator\n- Monitors High-altitude Electro-Magnetic Pulse (HEMP) events from nuclear detonations\n- Operates autonomously for over a decade\n- Reports pulse intensity and orientation post-event\n- Communicates over a satellite network for precise detonation triangulation"
+    "Question": "VPI Technology CES 2024 product highlight and specification",
+    "Summary": "VPI Technology\n\nProduct: EMP Detector and Triangulator\n\n- Groundbreaking low-power EMP Detector and Triangulator\n- Monitors High-altitude Electro-Magnetic Pulse (HEMP) events from nuclear detonations\n- Operates autonomously for over a decade\n- Reports pulse intensity and orientation post-event\n- Communicates over a satellite network for precise detonation triangulation",
+    "Summary_cn": "VPI科技\n\n产品：EMP探测器和三角测量仪\n\n- 突破性的低功耗EMP探测器和三角测量仪\n- 监测核爆炸引起的高空电磁脉冲（HEMP）事件\n- 自主运行十年以上\n- 报告脉冲强度和事件后的方向\n- 通过卫星网络进行精确定位测距"
 }

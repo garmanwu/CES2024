@@ -1,4 +1,5 @@
 {
-  "Question": "Renesas Electronics America, Inc. CES 2024 product highlight and specification",
-  "Summary": "Renesas Electronics Corporation\n\nProduct 1\n\n- Fifth-Generation R-Car SoC platform with chiplet technology for customization and flexibility\n- Two new Arm-based MCU platforms for vehicle control applications, addressing high computing performance and real-time processing\n- Plans for a virtual software development environment to accelerate software development efforts and enable faster time to market\n\nFor more information, visit renesas.com."
+    "Question": "Renesas Electronics America, Inc. CES 2024 product highlight and specification",
+    "Summary": "Renesas Electronics Corporation\n\nProduct 1\n\n- Fifth-Generation R-Car SoC platform with chiplet technology for customization and flexibility\n- Two new Arm-based MCU platforms for vehicle control applications, addressing high computing performance and real-time processing\n- Plans for a virtual software development environment to accelerate software development efforts and enable faster time to market\n\nFor more information, visit renesas.com.",
+    "Summary_cn": "瑞萨电子公司\n\n产品1\n\n- 采用芯片颗粒技术的第五代R-Car SoC平台，可实现定制化和灵活性\n- 针对车辆控制应用的两个新的基于Arm的MCU平台，提供高计算性能和实时处理能力\n- 计划推出虚拟软件开发环境，加快软件开发进程，实现更快上市时间\n\n欲了解更多信息，请访问renesas.com。"
 }

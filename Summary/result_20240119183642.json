@@ -1,4 +1,5 @@
 {
-  "Question": "TANGRAM CO., Ltd. CES 2024 product highlight and specification",
-  "Summary": "Tangram CO., Ltd.\n\nHiFi 3D Sensor\n\n- Uses ams Mira220 cameras with a 136° field of view 2-megapixel global shutter IR stereo pair and a 136° field of view 2-megapixel RGB camera\n- Depth range from 0.3m to 5m with 30-60 frames per second\n- 8 TOPS of machine learning processing power for on-sensor fusion of AI and 3D data\n- 8GB of onboard memory for running neural networks\n- Equipped with Tangram’s sensor software tools for self-calibration, time sync, and uptime management"
+    "Question": "TANGRAM CO., Ltd. CES 2024 product highlight and specification",
+    "Summary": "Tangram CO., Ltd.\n\nHiFi 3D Sensor\n\n- Uses ams Mira220 cameras with a 136° field of view 2-megapixel global shutter IR stereo pair and a 136° field of view 2-megapixel RGB camera\n- Depth range from 0.3m to 5m with 30-60 frames per second\n- 8 TOPS of machine learning processing power for on-sensor fusion of AI and 3D data\n- 8GB of onboard memory for running neural networks\n- Equipped with Tangram’s sensor software tools for self-calibration, time sync, and uptime management",
+    "Summary_cn": "唐古拉姆有限公司\n\nHiFi 3D传感器\n\n- 使用ams Mira220相机，具有136°视场2百万像素全局快门红外立体对和136°视场2百万像素RGB相机\n- 深度范围从0.3米至5米，每秒30-60帧\n- 8 TOPS的机器学习处理能力，用于传感器上的AI和3D数据融合\n- 8GB的内置内存用于运行神经网络\n- 配备唐古拉姆的传感器软件工具，用于自校准，时间同步和运行时间管理"
 }

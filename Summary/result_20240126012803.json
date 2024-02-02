@@ -1,4 +1,5 @@
 {
-  "Question": "Radix CES 2024 product highlight and specification",
-  "Summary": "Radix\n\n2024\n\n- Compact and rugged 3U VPX system\n- Powered by Intel Xeon D-1500 family processor\n- Supports up to 64GB DDR4 ECC memory\n- Multiple I/O options including Ethernet, USB, SATA, and PCIe\n- Ideal for military, aerospace, and industrial applications\n- High-performance computing capabilities\n"
+    "Question": "Radix CES 2024 product highlight and specification",
+    "Summary": "Radix\n\n2024\n\n- Compact and rugged 3U VPX system\n- Powered by Intel Xeon D-1500 family processor\n- Supports up to 64GB DDR4 ECC memory\n- Multiple I/O options including Ethernet, USB, SATA, and PCIe\n- Ideal for military, aerospace, and industrial applications\n- High-performance computing capabilities\n",
+    "Summary_cn": "基数\n\n2024\n\n- 紧凑耐用的3U VPX系统\n- 由Intel Xeon D-1500系列处理器驱动\n- 支持最多64GB DDR4 ECC内存\n- 支持多种I/O选项，包括以太网、USB、SATA和PCIe\n- 适用于军事、航空航天和工业应用\n- 具有高性能计算能力"
 }

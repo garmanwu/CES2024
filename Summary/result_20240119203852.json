@@ -1,4 +1,5 @@
 {
-  "Question": "Socionext America Inc. CES 2024 product highlight and specification",
-  "Summary": "Socionext America Inc.\n\nCES 2024 Product Highlight\n\n- Custom SoCs for automotive, data center, and smart devices\n- Low power 60GHz radar sensor solutions for in-cabin and consumer applications\n- Smart display controller for automotive applications\n- High-performance SoCs for video applications with an advanced image signal processor and AI acceleration engine"
+    "Question": "Socionext America Inc. CES 2024 product highlight and specification",
+    "Summary": "Socionext America Inc.\n\nCES 2024 Product Highlight\n\n- Custom SoCs for automotive, data center, and smart devices\n- Low power 60GHz radar sensor solutions for in-cabin and consumer applications\n- Smart display controller for automotive applications\n- High-performance SoCs for video applications with an advanced image signal processor and AI acceleration engine",
+    "Summary_cn": "美国Socionext公司\n\nCES 2024产品亮点\n\n- 为汽车、数据中心和智能设备定制的SoCs（片上系统）\n- 适用于车内和消费类应用的低功耗60GHz雷达传感器解决方案\n- 适用于汽车应用的智能显示控制器\n- 配备先进图像信号处理器和AI加速引擎的高性能视频应用SoCs"
 }

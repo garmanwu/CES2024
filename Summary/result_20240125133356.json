@@ -1,4 +1,5 @@
 {
-  "Question": "BRAIN SECURITY CES 2024 product highlight and specification",
-  "Summary": "BrainChip\n\nProduct: Akida™ 2nd Generation\n\n- Introduces Temporal Event-based Neural Networks (TENNs) for processing spatiotemporal data\n- Vision Transformers for analyzing images and videos in various applications\n- Demonstrates AI-enabled human behavioral analysis at CES 2024\n- Unveils Akida Neuromorphic Processor enabled by Microchip’s 32-bit MPU"
+    "Question": "BRAIN SECURITY CES 2024 product highlight and specification",
+    "Summary": "BrainChip\n\nProduct: Akida™ 2nd Generation\n\n- Introduces Temporal Event-based Neural Networks (TENNs) for processing spatiotemporal data\n- Vision Transformers for analyzing images and videos in various applications\n- Demonstrates AI-enabled human behavioral analysis at CES 2024\n- Unveils Akida Neuromorphic Processor enabled by Microchip’s 32-bit MPU",
+    "Summary_cn": "BrainChip \n\n产品：Akida™ 第二代\n\n- 引入了用于处理时空数据的时间事件神经网络（TENNs）\n- Vision Transformers 用于分析图像和视频在各种应用中\n- 在CES 2024展示了用人工智能进行人类行为分析\n- 揭示了由Microchip的32位MPU启用的Akida神经形态处理器"
 }
